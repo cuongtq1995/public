@@ -1,0 +1,3 @@
+MONGO_URL=mongodb://127.0.0.1/entryTest
+EMAIL_USER=username gmail login
+EMAIL_PASS=password gmail login
